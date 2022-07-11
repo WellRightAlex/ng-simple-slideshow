@@ -499,7 +499,7 @@ export class SlideshowComponent implements OnInit, AfterViewInit, DoCheck, OnCha
   private loadRemainingSlides(): void {
     for (let i = 0; i < this.slides.length; i++) {
       if (!this.slides[i].loaded) {
-        new Promise((resolve) => {
+        new Promise<void>((resolve) => {
           const tmpImage = this.imageUrls[i];
           let loadImage = new Image();
           loadImage.addEventListener('load', () => {
