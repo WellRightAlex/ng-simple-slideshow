@@ -1,6 +1,6 @@
 {
   "name": "@wellrightalex/ng-simple-slideshow",
-  "version": "13.0.0",
+  "version": "13.0.1",
   "license": "MIT",
   "private": false,
   "author": {
@@ -23,31 +23,16 @@
   "keywords": [
     "angular",
     "angular 2",
-    "angular 4",
-    "angular 5",
-    "angular 6",
-    "angular 7",
-    "angular 8",
-    "angular 9",
+    "angular 13",
     "ng",
     "ngx",
     "ng2",
-    "ng4",
-    "ng5",
-    "ng6",
-    "ng7",
-    "ng8",
-    "ng9",
+    "ng13",
     "slideshow",
     "carousel",
     "slider",
     "angular2",
-    "angular4",
-    "angular5",
-    "angular6",
-    "angular7",
-    "angular8",
-    "angular9"
+    "angular13"
   ],
   "repository": {
     "type": "git",
