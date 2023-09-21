@@ -1,6 +1,6 @@
 {
   "name": "@wellrightalex/ng-simple-slideshow",
-  "version": "13.0.1",
+  "version": "15.0.1",
   "license": "MIT",
   "private": false,
   "author": {
@@ -12,7 +12,7 @@
     "url": "https://github.com/wellrightalex/ng-simple-slideshow/issues"
   },
   "peerDependencies": {
-    "@angular/core": "^13.0.0"
+    "@angular/core": "^15.0.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/wellrightalex"
@@ -23,7 +23,7 @@
   "keywords": [
     "angular",
     "angular 2",
-    "angular 13",
+    "angular 15",
     "ng",
     "ngx",
     "ng2",
@@ -32,7 +32,7 @@
     "carousel",
     "slider",
     "angular2",
-    "angular13"
+    "angular15"
   ],
   "repository": {
     "type": "git",
